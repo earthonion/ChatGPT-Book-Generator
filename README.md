@@ -4,10 +4,11 @@ Input any book title and it will generate a full book in PDF format.
 # set up
 
 
-you will need the opanAI api installed this can be installed with 
+you will need the opanAI api and fpdf installed this can be installed with 
 
 ```
 pip install openai
+pip install fpdf
 
 ```
 clone and cd into the folder
