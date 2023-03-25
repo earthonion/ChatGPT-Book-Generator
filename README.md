@@ -15,7 +15,7 @@ then you should be able to run the file
 ```
 git clone https://github.com/earthonion/ChatGPT-Book-Generator/
 cd ChatGPT-Book-Generator/
-python bookgen.py
+python book_gen.py
 ```
 
 you will also need to get an openai API key. you can this this from [your user settings](https://platform.openai.com/account/api-keys)
